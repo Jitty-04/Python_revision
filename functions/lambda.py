@@ -62,4 +62,13 @@ result = lambda a : 'vowel' if a in 'aeiou' else 'consonant'
 print(result('a'))
 print(result('b'))
 
+# list1 = ["Mike","","Emma","Kelly","","Brad"]    # ["Mike","Emma","Kelly","Brad"]
+# print(list(filter(lambda a: a.isalpha(), list1)))
+
+# list1 = ["Mike12","a","Emma","Kelly","","Brad"]
+# print(list(filter(lambda a: len(a) > 1, list1)))
+
+# reduce
+
+
 
