@@ -6,4 +6,3 @@ if rev==string:
     print(f'{string} is palindrome')
 else :
     print(f'{string} is not palindrome')
-
